@@ -47,7 +47,7 @@ class Header:
 
     def AddValue(self, value):
         self.value += value
-print 'ready'
+print 'allo git'
 
 while 1:
     client, address = s.accept()
